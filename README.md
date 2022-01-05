@@ -1,6 +1,6 @@
 # Image Merger
 
-Merging sprites into one sprite sheet using ImageMagick library and `rmagick` adaptation.
+Merge sprites into one sprite sheet using ImageMagick library and `rmagick` adaptation.
 
 Steps to merge sprites into one sprite sheet:
 1. Install ImageMagick and run `bundle install` ;
