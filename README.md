@@ -1,4 +1,4 @@
-Image Merger
+# Image Merger
 
 Merging sprites into one sprite sheet using ImageMagick library and `rmagick` adaptation.
 
